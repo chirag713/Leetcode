@@ -12,7 +12,7 @@ public:
             }
             if(a==0)
             return i;
-        }
+        }  
         return -1;
     }
 };
